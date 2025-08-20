@@ -43570,16 +43570,16 @@
                     className: "social-container",
                     
                     children: [(0, mM.jsx)("a", {
-                        href: "https://x.com/mickyds01",
+                        href: "https://x.com/",
                         target: "_blank",
                         children: (0, mM.jsx)(WE, {})
                     }), (0, mM.jsx)("a", {
-                        href: "https://t.me/McDEEZCTO",
+                        href: "https://t.me/",
                         target: "_blank",
                         children: (0, mM.jsx)(XE, {})
                     }),
                     (0, mM.jsx)("a", {
-                        href: "/card.html",
+                        href: "https://bags.fm/",
                         target: "_blank",
                         children: (0, mM.jsx)("img", {
                             src: "id.svg",
@@ -43587,7 +43587,7 @@
                         }), 
                     }),
                     (0, mM.jsx)("a", {
-                        href: "https://www.dextools.io/app/en/ether/pair-explorer/0x8b19372671996f4cf362edb8f35157f2a2d04b86?t=1720178933045",
+                        href: "https://www.dextools.io",
                         target: "_blank",
                         children: (0, mM.jsx)("img", {
                             src: "dextools.svg",
