@@ -41611,7 +41611,7 @@
                             return t()
                         }
                     }), (0, mM.jsx)("h2", {
-                        children: "The Lore or McDonalds and Crypto goes way back"
+                        children: "The Lore of McDonalds and Crypto goes way back"
                     }), (0, mM.jsxs)("p", {
                         children: ["We are giving all proceeds to Ronald Mcdonald Charity🍟🍔.",
                     ]
@@ -41634,13 +41634,13 @@
                         children: "Welcome to Mcdeez,The Lore or McDonalds and Crypto goes way back."
                     }), (0, mM.jsx)("br", {}), (0, mM.jsxs)("p", {
                         children: [(0, mM.jsx)("strong", {
-                            children: "\ud83c\udf5f Contract: 0x814638981890baeb84f622200d824ee71fa4a375"
+                            children: "\ud83c\udf5f Contract: Just have bags for now"
                         }),
                          (0, mM.jsx)("br", {}), (0, mM.jsx)("strong", {
-                            children: "\ud83c\udf5f Supply: 69,000,000,000MCD"
+                            children: "\ud83c\udf5f Supply: 69,000,000,000MCB"
                         }), (0, mM.jsx)("br", {}), (0, mM.jsx)("br", {}), (0, mM.jsx)("strong", {
                             children: "\ud83c\udf5f Phase 1 "
-                        }), ' : Put the fries in the Bag Bro',  ' ',  ""]
+                        }), ' : Put the fries in the Bag Bro.',  ' Launched on bags app play your part and be on the right side of charity, we are donating all royalties to the Ronald Mcdonald House',  ""]
                     }), (0, mM.jsx)("br", {})]
                 })
             };
