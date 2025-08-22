@@ -43570,7 +43570,7 @@
                     className: "social-container",
                     
                     children: [(0, mM.jsx)("a", {
-                        href: "https://x.com/",
+                        href: "https://x.com/McDS_Bags",
                         target: "_blank",
                         children: (0, mM.jsx)(WE, {})
                     }), (0, mM.jsx)("a", {
