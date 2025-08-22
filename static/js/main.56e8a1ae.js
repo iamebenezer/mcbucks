@@ -41634,7 +41634,7 @@
                         children: "Welcome to Mcdeez,The Lore or McDonalds and Crypto goes way back."
                     }), (0, mM.jsx)("br", {}), (0, mM.jsxs)("p", {
                         children: [(0, mM.jsx)("strong", {
-                            children: "\ud83c\udf5f Contract: Just have bags for now"
+                            children: "\ud83c\udf5f Contract: BFQvsk6EahkQyCbEot4jHXqSBEWeZhunKNPMZv4kBAGS"
                         }),
                          (0, mM.jsx)("br", {}), (0, mM.jsx)("strong", {
                             children: "\ud83c\udf5f Supply: 69,000,000,000MCB"
